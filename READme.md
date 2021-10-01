@@ -1,0 +1,1 @@
+Backend for the blog application backend using NodeJS, MongoDB, Okta Authentication
